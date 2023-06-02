@@ -4,7 +4,7 @@ Projeto desenvolvido para praticar as linguagens HTML e CSS.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Alura Books*
+| :sparkles: Nome        | **Alura Books**
 | :label: Tecnologias | HTML, CSS
 | :rocket: URL         | https://alura-books-kohl-nine.vercel.app/
 
