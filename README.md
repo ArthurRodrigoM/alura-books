@@ -9,7 +9,7 @@ Projeto desenvolvido para praticar as linguagens HTML e CSS.
 | :rocket: URL         | https://alura-books-kohl-nine.vercel.app/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![]https://github.com/ArthurRodrigoM/alura-books/blob/main/Alura%20Books.JPG
+![capa portfolio]https://github.com/ArthurRodrigoM/alura-books/blob/main/Alura%20Books.JPG
 
 ## Detalhes do projeto
 
